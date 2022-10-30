@@ -29,3 +29,7 @@
 
 - Installed Babel
 - Configured Babel
+
+## v1.0.8
+
+- Added github actions for static page deploy
