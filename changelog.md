@@ -20,3 +20,7 @@
 
 - Installed Jest
 - Installed eslint-plugin-jest
+
+## v1.0.6
+
+- Added hook for jest
