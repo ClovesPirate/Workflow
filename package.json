@@ -1,6 +1,6 @@
 {
   "name": "workflow-assignment",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Workflow Assignment at Noroff, using template repo with CRUD functionality.",
   "main": "index.js",
   "scripts": {
