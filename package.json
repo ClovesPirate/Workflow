@@ -1,6 +1,6 @@
 {
   "name": "workflow-assignment",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Workflow Assignment at Noroff, using template repo with CRUD functionality.",
   "main": "index.js",
   "scripts": {
@@ -41,7 +41,10 @@
   },
   "homepage": "https://github.com/ClovesPirate/Workflow#readme",
   "lint-staged": {
-    "*.js": ["eslint --cache --fix", "jest"],
+    "*.js": [
+      "eslint --cache --fix",
+      "jest"
+    ],
     "*.{js, css, md, scss}": "prettier --write"
   }
 }
