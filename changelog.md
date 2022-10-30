@@ -10,3 +10,8 @@
 ## v1.0.3
 
 - Installed ESlint
+
+## v1.0.4
+
+- Installed Lint-Staged
+- Set up pre-commit hooks
