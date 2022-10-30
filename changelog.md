@@ -1,3 +1,7 @@
+## v1.0.8
+
+- Added github actions for static page deploy
+
 ## v1.0.7
 
 - Installed Babel
