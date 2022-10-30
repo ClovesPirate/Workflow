@@ -15,3 +15,8 @@
 
 - Installed Lint-Staged
 - Set up pre-commit hooks
+
+## v1.0.5
+
+- Installed Jest
+- Installed eslint-plugin-jest
