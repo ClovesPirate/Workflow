@@ -24,3 +24,8 @@
 ## v1.0.6
 
 - Added hook for jest
+
+## v1.0.7
+
+- Installed Babel
+- Configured Babel
