@@ -6,3 +6,7 @@
 ## v1.0.2
 
 - Installed Prettier
+
+## v1.0.3
+
+- Installed ESlint
