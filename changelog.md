@@ -2,3 +2,7 @@
 
 - Initialized NPM
 - Setup package file
+
+## v1.0.2
+
+- Installed Prettier
