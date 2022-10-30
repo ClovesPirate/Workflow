@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "build": "sass src/scss:dist/css",
-    "start": "sass --watch src/scss:dist/css & live-server"
+    "start": "sass --watch src/scss:dist/css & live-server",
+    "lint": "eslint src/js/**/*.js",
+    "lint-fix": "eslint src/js/**/*.js --cache --fix"
   },
   "keywords": [
     "Noroff",
@@ -15,6 +17,7 @@
   "author": "Truls Haakenstad <truls.haakenstad@outlook.com>",
   "license": "ISC",
   "devDependencies": {
+    "eslint": "^8.26.0",
     "live-server": "^1.1.0",
     "prettier": "^2.7.1",
     "sass": "^1.54.8"
